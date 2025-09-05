@@ -31,7 +31,6 @@ package_list="
     fbautostart \
     at-spi2-core \
     xterm \
-    eterm \
     nautilus\
     mousepad \
     seahorse \
